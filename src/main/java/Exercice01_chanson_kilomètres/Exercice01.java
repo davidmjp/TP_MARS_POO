@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Exercice01;
+package Exercice01_chanson_kilomètres;
 
 /**
  * Titre : Un kilomètre à pied

@@ -10,4 +10,5 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+    <name>TP_MARS_POO 5 exercices console</name>
 </project>

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Exercice05;
+package Exercice05_âge_taille;
 
 import java.util.Scanner;
 

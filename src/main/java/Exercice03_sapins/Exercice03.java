@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Exercice03;
+package Exercice03_sapins;
 
 import java.util.Scanner;
 
